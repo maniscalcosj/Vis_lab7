@@ -1,1 +1,9 @@
+.page {
+  background-color: white;
+  margin: 20px 50px;
+}
 
+.header {
+  color: blue;
+  font-style: italic;
+}
